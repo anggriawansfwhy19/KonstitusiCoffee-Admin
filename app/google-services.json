@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962709540902",
+    "project_id": "konstitusicoffee",
+    "storage_bucket": "konstitusicoffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962709540902:android:e48e568d301d69878116e7",
+        "android_client_info": {
+          "package_name": "com.anggriawan.adminkonstitusicoffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4YPJ-qBNUcV31UpGOglFnPk3hHPg5ehc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
